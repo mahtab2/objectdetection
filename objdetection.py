@@ -28,6 +28,5 @@ for cnt in contours:
         cv2.putText(img, "Circle", (x, y), font, 1, (0))
 
 cv2.imshow("shapes", img)
-#cv2.imshow("mask", mask)
 cv2.waitKey(0)
 cv2.destroyAllWindows()
