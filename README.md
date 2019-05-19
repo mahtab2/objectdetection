@@ -1,2 +1,2 @@
 # objectdetection
-yolo darknet object detection
+opencv geometry object detection
